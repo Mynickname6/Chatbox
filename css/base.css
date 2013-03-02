@@ -1,0 +1,19 @@
+fieldset{
+	background-color: #5bbe40;
+	width: 384px;
+	height:350px;
+	margin: auto;
+}
+.chatbox-inner{
+	border: 2px solid black;
+	width:380px;
+	height:300px;
+	overflow: auto;
+}
+fieldset #pseudo{
+	margin-top: 6px;
+	width:80px;
+}
+fieldset #message{
+	width:210px;
+}
